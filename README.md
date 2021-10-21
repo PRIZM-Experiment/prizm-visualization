@@ -2,7 +2,7 @@
 
 This repo may end up containing random things related to PRIZM.
 
-###S11 Plots over time
+### S11 Plots over time
 The plot_s11.py code can be run by passing an input and output as follows:
 python plot_s11.py -input '/data/measurements/' -output '/plots/stacked.pdf'
 
