@@ -16,7 +16,8 @@ You'll need:
 - numpy
 
 The code makes a few assumptions:
-- .txt contains the same info as .set (or a least that the .set files are not necessary)
+- Measurements for different antennas are in seperate folders.
+- Files with extension.txt contain the same info as .set (or a least that the .set files are not necessary)
 - Every measurement (till the end of time) will have the samen frequency channels
 - The end of the metadata is marked by a newline (it can handle varying metadata)
 - Each date will have measurement for both polarisations (I assume NS and EW are polarisations) 
