@@ -9,6 +9,11 @@ def plot_s11(file_directory, output):
 	"""
 	Makes a joy division/Alan Rogers Style plot of S11 measurements as they are accumulated over time.
 
+	file_directory: str
+		The path of the folder with all S11 measurement .txt files
+	output: str
+		The path and filename where the plot should be directed, extension defines format.
+
 
 	"""
 	seperation_scale = 0.5
