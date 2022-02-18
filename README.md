@@ -1,7 +1,7 @@
 PRIZM-Visualization
 ========
 
-** Visualization tools for PRIZM and related low frequency radio experiments **
+**Visualization tools for PRIZM and related low frequency radio experiments**
 
 This repository is under development
 
