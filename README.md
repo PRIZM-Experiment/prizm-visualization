@@ -1,9 +1,19 @@
-# PRIZM-Analysis
+PRIZM-Visualization
+========
 
-This repo may end up containing random things related to PRIZM.
+** Visualization tools for PRIZM and related low frequency radio experiments **
 
-### S11 Plots over time
-The plot_s11.py code can be run by passing an input and output as follows:
+This repository is under development
+
+Features
+--------
+* Interactive waterfall plotting tools (under development
+* S11 plotting script - Joy Division style (see below for instructions)
+* S11 plotting script - overlay
+
+
+### Temporal Evolution of S11 Measurements
+The plot_s11.py script can be run by passing an input and output as follows:
 
 python plot_s11.py -input '/data/measurements/' -output '/plots/stacked.pdf'
 
